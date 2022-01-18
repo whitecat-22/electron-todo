@@ -8,6 +8,6 @@
 　
 
 ◆使用技術：
-- JavaScript
+- [JavaScript](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 - [Electron](https://www.electronjs.org/)
 - [Node.js](https://nodejs.org/ja/)
